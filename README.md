@@ -1,4 +1,5 @@
-# AngularFormValidationScotch
+# Angular Form Validation Scotch
+just a daily learning following tutorial arround [(scotch.io)](https://scotch.io/tutorials/angular-2-form-validation) tutorial
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.22-1.
 
